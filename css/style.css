@@ -1,20 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Lobster&family=Poppins:wght@400;500;700&family=Yeseva+One&display=swap');
 
 body {
-    width: 100vw;
-    margin: 0;
+    width: 1140px;
+    margin: 0 auto;
     padding: 0px;
     color: #333333;
     font-family: 'Poppins', sans-serif;
 }
 
 
-.section-padding {
-    padding: 10px 70px;
-}
-
 .half-width {
-    width: 50%;
+    width: 570px;
 }
 
 .top-banner {
@@ -22,7 +18,6 @@ body {
 }
 
 .top-banner-left {
-    display: flex;
     padding: 0px;
     margin: 0px;
 }
@@ -33,6 +28,7 @@ body {
     padding: 0px;
     border-left: 4px solid #FF5959;
     padding-left: 5px;
+    font-family: 'Yeseva One', cursive;
 }
 
 .mission {
@@ -41,5 +37,6 @@ body {
 
 .top-banner-right img{
     width: 400px;
-    margin: 0 auto;
+    margin-top: -53px;
+    margin-left: 85px;
 }
