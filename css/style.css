@@ -3,7 +3,7 @@
 body {
     width: 1140px;
     margin: 0 auto;
-    padding: 0px;
+    padding: 50px 0px;
     color: #333333;
     font-family: 'Poppins', sans-serif;
 }
@@ -38,5 +38,18 @@ body {
 .top-banner-right img{
     width: 400px;
     margin-top: -53px;
-    margin-left: 85px;
+    margin-left: 100px;
+}
+
+.btn-sm {
+    margin-top: 40px;
+}
+
+.btn-sm a {
+    text-decoration: none;
+    padding: 10px 30px;
+    background: #FF5959;
+    border-radius: 5px;
+    color: white;
+    font-weight: 500;
 }
