@@ -31,7 +31,7 @@ body {
     font-family: 'Yeseva One', cursive;
 }
 
-.mission {
+.mission-2022 {
     color: #FFAD5A;
 }
 
@@ -52,4 +52,58 @@ body {
     border-radius: 5px;
     color: white;
     font-weight: 500;
+}
+
+.scroll-down-text {
+    margin-top: 40px;
+}
+
+.mission {
+    width: 360px;
+    min-height: 376px;
+    background-color: #4f9da64f;
+    border-radius: 26px;
+}
+
+.vission {
+    width: 360px;
+    min-height: 376px;
+    background-color: #ff59593a;
+    border-radius: 26px;
+}
+
+.goals {
+    width: 360px;
+    min-height: 376px;
+    background-color: #FFF4D6;
+    border-radius: 26px;
+}
+
+
+.my-mission-title h1{
+    text-align: center;
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.my-mission-box {
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+}
+
+.mission {
+    padding: 10px 30px;
+}
+
+.mission-img {
+    width: 126px;
+}
+
+.vission {
+    padding: 10px 30px;
+}
+
+.goals {
+    padding: 10px 30px;
 }
