@@ -1,6 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Lobster&family=Poppins:wght@400;500;700&family=Yeseva+One&display=swap');
 
 body {
+    margin: 0 auto;
+    padding: 0px 0px;
+    color: #333333;
+    font-family: 'Poppins', sans-serif;
+}
+
+.wrapper {
     width: 1140px;
     margin: 0 auto;
     padding: 50px 0px;
@@ -168,7 +175,6 @@ body {
 }
 
 footer {
-    width: 100%;
     height: 108px;
     background-color: #0B0D17;
     display: flex;
